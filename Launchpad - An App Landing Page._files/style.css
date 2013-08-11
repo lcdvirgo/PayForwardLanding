@@ -271,13 +271,13 @@ section {
 	-moz-transition: all 0.5s;
 	-webkit-transition: all 0.5s;
 	-o-transition: all 0.5s;
-	opacity: 0.8;
+	opacity: 1.0;
 	filter: alpha(opacity=80);
 	background-repeat: no-repeat;
 	background-size:cover;	
 }
 .download-btn:hover {
-	opacity: 0.5;
+	opacity: 1.0;
 	filter: alpha(opacity=50);
 }
 .applestore {
